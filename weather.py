@@ -310,6 +310,7 @@ def main():
     print("  ╚══════════════════════════════════════╝")
     print()
     print("  Commands: type a city name, 'history', or 'quit'")
+    print("  Tip: temperatures shown in °C, wind in km/h")
 
     # ── Show last search on startup ───────────────────────────────────
     history = load_history()

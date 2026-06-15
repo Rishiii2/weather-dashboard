@@ -19,7 +19,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-dashboard.git
+git clone https://github.com/Rishiii2/weather-dashboard.git
 cd weather-dashboard
 ```
 
